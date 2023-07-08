@@ -1,0 +1,3 @@
+[submodule "andromeda-theme"]
+    path = themes/andromeda
+    url = https://github.com/Pixadus/andromeda-theme
