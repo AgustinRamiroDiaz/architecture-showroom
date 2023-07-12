@@ -4,10 +4,7 @@ date = 2023-04-25
 description = "Getting set up"
 extra = {header_img = "https://live.staticflickr.com/65535/52831738797_416eeff23a_k_d.jpg"}
 [taxonomies]
-director=["Guillermo Del Toro"]
-genres=["Thriller","Drama"]
-awards=["Golden Globe", "Academy award", "BAFTA"]
-release-year = ["2017"]
+tags=["bosquejo", "proyecto", "fachada", "plano", "corte"]
 +++
 
 # Introduction

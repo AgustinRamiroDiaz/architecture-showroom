@@ -13,10 +13,7 @@ build_search_index = true
 theme = "andromeda"
 
 taxonomies = [
-    { name = "director", feed = true},
-    { name = "genres", feed = true},
-    { name = "awards", feed = true},
-    { name = "release-year", feed = true},
+    { name = "tags", feed = true},
 ]
 
 [markdown]
