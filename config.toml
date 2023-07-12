@@ -12,6 +12,13 @@ build_search_index = true
 # description = "Photography journal theme for Zola"
 theme = "andromeda"
 
+taxonomies = [
+    { name = "director", feed = true},
+    { name = "genres", feed = true},
+    { name = "awards", feed = true},
+    { name = "release-year", feed = true},
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
