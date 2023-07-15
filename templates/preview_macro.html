@@ -1,21 +1,23 @@
 {% macro preview(page) %}
-<a class="stretched" href="{{config.base_url}}/{{page.path}}">
-  <div class="post-container">
-    <img
-      data-src="{{page.extra.header_img}}"
-      class="lozad"
-      data-placeholder-background="darkgrey"
-    />
-    <div class="post-text">
-      <h2 class="post-title">{{ page.title | safe }}</h2>
-      <span class="post-description">{{ page.description | safe }}</span>
-      <span class="post-date">{{ page.date | date(format="%Y/%m/%d") }}</span>
-      {% for tag in page.taxonomies["tags"] %}
-      <a href="{{config.base_url}}/tags/{{tag}}">
-        <button>{{ tag }}</button>
-      </a>
-      {% endfor %}
+<div class="stretched">
+  <a href="{{config.base_url}}/{{page.path}}">
+    <div class="post-container">
+      <img
+        data-src="{{page.extra.header_img}}"
+        class="lozad"
+        data-placeholder-background="darkgrey"
+      />
+      <div class="post-text">
+        <h2 class="post-title">{{ page.title | safe }}</h2>
+        <span class="post-description">{{ page.description | safe }}</span>
+        <span class="post-date">{{ page.date | date(format="%Y/%m/%d") }}</span>
+        {% for tag in page.taxonomies["tags"] %}
+        <a href="{{config.base_url}}/tags/{{tag}}">
+          <button>{{ tag }}</button>
+        </a>
+        {% endfor %}
+      </div>
     </div>
-  </div>
-</a>
+  </a>
+</div>
 {% endmacro preview %}
