@@ -8,7 +8,7 @@ compile_sass = true
 build_search_index = true
 
 # Site title
-# title = "Andromeda"
+title = "Architecture Showroom"
 # description = "Photography journal theme for Zola"
 theme = "andromeda"
 
@@ -28,6 +28,6 @@ header_links = [
 #    {name = "Blog", url = "https://andromeda-theme.netlify.app"}
 ]
 # license = "CC BY-NC 2.0"
-# email = "jane@doe.com"
-# name = "Jane Doe"
-# favicon = "/images/favicon.ico"
+email = "agustin.ramiro.diaz@gmail.com"
+name = "Agustín Ramiro Díaz"
+favicon = "/images/favicon.ico"
