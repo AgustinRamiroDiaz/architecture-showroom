@@ -1,1 +1,1 @@
-Check out https://jamstackthemes.dev/theme/11ty-yetty/
+Check out https://github.com/ygoex/yetty
