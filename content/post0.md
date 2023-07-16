@@ -31,16 +31,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Images
 
-We can do single images, such as
+We can do single images, such as CUSTOM
 
-<div class="gallery">
-      <a href="https://live.staticflickr.com/65535/52838617702_e430b1891f_o_d.jpg" data-ngthumb="https://live.staticflickr.com/65535/52838617702_1f3b10f9d3_c_d.jpg">title 2</a>
-</div>
+---
+
+![AAAAAAAA](/local.jpg)
+
+---
 
 Or two images,
 
 <div class="gallery">
-      <a href="https://live.staticflickr.com/65535/52831738797_d5aeb218b8_o_d.jpg" data-ngthumb="https://live.staticflickr.com/65535/52831738797_fb3f1cfa1e_c_d.jpg">Stylo the motorbike</a>
+      <a href="/local.jpg">Stylo the motorbike</a>
       <a href="https://live.staticflickr.com/65535/52838617702_e430b1891f_o_d.jpg" data-ngthumb="https://live.staticflickr.com/65535/52838617702_1f3b10f9d3_c_d.jpg">title 2</a>
 </div>
 
