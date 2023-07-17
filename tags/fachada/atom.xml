@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Architecture Showroom - fachada</title>
+    <link href="https://agustinramirodiaz.github.io/architecture-showroom/tags/fachada/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://agustinramirodiaz.github.io/architecture-showroom"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-04-25T00:00:00+00:00</updated>
+    <id>https://agustinramirodiaz.github.io/architecture-showroom/tags/fachada/atom.xml</id>
+    <entry xml:lang="en">
+        <title>My first post</title>
+        <published>2023-04-25T00:00:00+00:00</published>
+        <updated>2023-04-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://agustinramirodiaz.github.io/architecture-showroom/post0/" type="text/html"/>
+        <id>https://agustinramirodiaz.github.io/architecture-showroom/post0/</id>
+        
+        <content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;local.jpg&quot; alt=&quot;AAAAAAAA&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+      &lt;a href=&quot;&#x2F;local.jpg&quot;&gt;Stylo the motorbike&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Or two images,&lt;&#x2F;p&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+      &lt;a href=&quot;&#x2F;local.jpg&quot;&gt;Stylo the motorbike&lt;&#x2F;a&gt;
+      &lt;a href=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_e430b1891f_o_d.jpg&quot; data-ngthumb=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_1f3b10f9d3_c_d.jpg&quot;&gt;title 2&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;And, finally, lots of images,&lt;&#x2F;p&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+      &lt;a href=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52831738797_d5aeb218b8_o_d.jpg&quot; data-ngthumb=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52831738797_fb3f1cfa1e_c_d.jpg&quot;&gt;&lt;&#x2F;a&gt;
+      &lt;a href=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_e430b1891f_o_d.jpg&quot; data-ngthumb=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_1f3b10f9d3_c_d.jpg&quot;&gt;&lt;&#x2F;a&gt;
+      &lt;a href=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_e430b1891f_o_d.jpg&quot; data-ngthumb=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_1f3b10f9d3_m_d.jpg&quot;&gt;&lt;&#x2F;a&gt;
+      &lt;a href=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_e430b1891f_o_d.jpg&quot; data-ngthumb=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52838617702_1f3b10f9d3_c_d.jpg&quot;&gt;&lt;&#x2F;a&gt;
+      &lt;a href=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52831738797_d5aeb218b8_o_d.jpg&quot; data-ngthumb=&quot;https:&#x2F;&#x2F;live.staticflickr.com&#x2F;65535&#x2F;52831738797_fb3f1cfa1e_c_d.jpg&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>
