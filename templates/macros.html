@@ -77,6 +77,20 @@
     }
   } )
 
+  // Handle local files with subpaths by prefixing config.base_url 
+   $(document).ready(() => {
+    $("a[href^='/']").each((_, x) => {
+      let old = $(x).attr("href")
+      let newurl = "{{config.base_url}}" + old;
+      $(x).attr("href", newurl);
+    })
+    // $("img[src^='/']").each((_, x) => {
+    //   let old = $(x).attr("src")
+    //   let newurl = "{{config.base_url}}" + old;
+    //   $(x).attr("src", newurl);
+    // })
+  })
+
   // Gallery setup
   $(".gallery").each( function( index, element ) {
     const items = $(this)[0].children.length;

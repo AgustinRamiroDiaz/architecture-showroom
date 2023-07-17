@@ -7,37 +7,11 @@ extra = {header_img = "https://live.staticflickr.com/65535/52831738797_416eeff23
 tags=["bosquejo", "proyecto", "fachada", "plano", "corte"]
 +++
 
-# Introduction
-
-Hey. This is a demo. It's not an actual blog post, though hopefully it will be one day. For now, it's just a simple demo, testing text and testing images.
-
-> We can try out blockquotes here
-
-# Header one
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-## Header two
-
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Header three
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-#### Header four
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-## Images
-
-We can do single images, such as CUSTOM
-
----
-
 ![AAAAAAAA](/local.jpg)
 
----
+<div class="gallery">
+      <a href="/local.jpg">Stylo the motorbike</a>
+</div>
 
 Or two images,
 
